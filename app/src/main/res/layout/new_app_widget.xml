@@ -21,7 +21,7 @@
         android:layout_centerHorizontal="true"
         android:layout_margin="8dp"
         android:contentDescription="@string/appwidget_text"
-        android:text="@string/appwidget_text"
+        android:text="Brillo"
         android:textColor="#000"
         android:textSize="24sp"
         android:textStyle="bold|italic" />
@@ -29,6 +29,8 @@
     <Button
         android:id="@+id/appwidget_button"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_below="@id/appwidget_text"
+        android:text="Ir a la aplicaciòn"/>
 
 </RelativeLayout>
