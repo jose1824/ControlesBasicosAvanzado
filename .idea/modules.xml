@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ControlesBasicos.iml" filepath="$PROJECT_DIR$/ControlesBasicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlesBasicosAvanzado.iml" filepath="$PROJECT_DIR$/ControlesBasicosAvanzado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
