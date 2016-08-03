@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opc1"
+        android:title="Opción 1" />
+    <item
+        android:id="@+id/opc2"
+        android:title="Opción2" />
+    <item
+        android:id="@+id/opc3"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Opción3" />
+    <item
+        android:id="@+id/opc4"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Opción4" />
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ControlesBasicos</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="opcion_2">Opcion 2</string>
+    <string name="opcion_1">Opcion 1</string>
+    <string name="opcion_3">Opcion 3</string>
+    <string name="obtener_opciones">Obtener Opciones</string>
+</resources>
