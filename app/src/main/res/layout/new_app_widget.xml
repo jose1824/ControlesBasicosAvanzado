@@ -22,7 +22,7 @@
         android:layout_margin="8dp"
         android:contentDescription="@string/appwidget_text"
         android:text="Brillo"
-        android:textColor="#000"
+        android:textColor="@color/accent"
         android:textSize="24sp"
         android:textStyle="bold|italic" />
 
@@ -46,8 +46,8 @@
         android:id="@+id/appwidget_button_flash"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/appwidget_button"
+        android:layout_below="@id/appwidget_button_brillo"
         android:background="@color/primary"
-        android:text="Brillo" />
+        android:text="Strobos" />
 
 </RelativeLayout>

@@ -6,4 +6,10 @@
     <string name="opcion_1">Opcion 1</string>
     <string name="opcion_3">Opcion 3</string>
     <string name="obtener_opciones">Obtener Opciones</string>
+    <string name="guardar_datos">Guardar datos</string>
+    <string name="twitter">Twitter</string>
+    <string name="mail">Mail</string>
+    <string name="edad">Edad</string>
+    <string name="nombre">Nombre</string>
+    <string name="mostrar_datos">Mostrar datos</string>
 </resources>
